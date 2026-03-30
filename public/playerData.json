@@ -1,0 +1,134 @@
+[
+  {
+    "playerId": 1,
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batter",
+    "rating": 791,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 20,
+    "playerImg": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/virat-kohli.jpg"
+  },
+  {
+    "playerId": 2,
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 879,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 19,
+    "playerImg": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c170685/jasprit-bumrah.jpg"
+  },
+  {
+    "playerId": 3,
+    "playerName": "Daryl Mitchell",
+    "playerCountry": "New Zealand",
+    "playerType": "All-rounder",
+    "rating": 840,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 15,
+    "playerImg": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c170755/daryl-mitchell.jpg"
+  },
+  {
+    "playerId": 4,
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "rating": 753,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm leg-break",
+    "price": 18,
+    "playerImg": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c170851/rashid-khan.jpg"
+  },
+  {
+    "playerId": 5,
+    "playerName": "Travis Head",
+    "playerCountry": "Australia",
+    "playerType": "Batter",
+    "rating": 853,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm off-break",
+    "price": 14,
+    "playerImg": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c170640/travis-head.jpg"
+  },
+  {
+    "playerId": 6,
+    "playerName": "Sikandar Raza",
+    "playerCountry": "Zimbabwe",
+    "playerType": "All-rounder",
+    "rating": 328,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off-break",
+    "price": 10,
+    "playerImg": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c171032/sikandar-raza.jpg"
+  },
+  {
+    "playerId": 7,
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "playerType": "Batter",
+    "rating": 880,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off-break",
+    "price": 19,
+    "playerImg": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c170942/joe-root.jpg"
+  },
+  {
+    "playerId": 8,
+    "playerName": "Hardik Pandya",
+    "playerCountry": "India",
+    "playerType": "All-rounder",
+    "rating": 299,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 13,
+    "playerImg": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c170666/hardik-pandya.jpg"
+  },
+  {
+    "playerId": 9,
+    "playerName": "Harry Brook",
+    "playerCountry": "England",
+    "playerType": "Batter",
+    "rating": 857,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 11,
+    "playerImg": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c241975/harry-brook.jpg"
+  },
+  {
+    "playerId": 10,
+    "playerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 838,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 16,
+    "playerImg": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c170644/mitchell-starc.jpg"
+  },
+  {
+    "playerId": 11,
+    "playerName": "Abhishek Sharma",
+    "playerCountry": "India",
+    "playerType": "Batter",
+    "rating": 908,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "price": 8,
+    "playerImg": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c246615/abhishek-sharma.jpg"
+  },
+  {
+    "playerId": 12,
+    "playerName": "Mehidy Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-rounder",
+    "rating": 299,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off-break",
+    "price": 7,
+    "playerImg": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c170914/mehidy-hasan.jpg"
+  }
+]
